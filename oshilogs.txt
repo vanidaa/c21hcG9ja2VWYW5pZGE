@@ -1,0 +1,340 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VWYW5pZGE/c21hcG9ja2VWYW5pZGE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Vanida =====
+[1]Vanida      |08:03:09 | 11-10-2026| login OK @wvanidaa | score=870 rank=6724
+[1]Vanida      |08:03:09 | 11-10-2026| serverTime=2026-10-11T08:03:09.000Z local=2026-10-11T08:03:09.099Z
+--> [1]Vanida menjalankan: Claim Daily
+[1]Vanida      |08:03:10 | 11-10-2026| daily: sudah klaim (already=true) score=870
+--> [1]Vanida menjalankan: Auto All Tasks (3 pending)
+[1]Vanida      |08:03:17 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wvanidaa/status/2109192568459623947
+[1]Vanida      |08:03:17 | 11-10-2026| delay 10s...
+[1]Vanida      |08:03:30 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wvanidaa/status/2109192542639514899
+[1]Vanida      |08:03:30 | 11-10-2026| delay 10s...
+[1]Vanida      |08:03:43 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/wvanidaa/status/2109192894128131768
+[1]Vanida      |08:03:43 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vanida      |08:03:45 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/wvanidaa/status/2109192786107548791
+--> [1]Vanida menjalankan: Watch Anime
+[1]Vanida      |08:03:46 | 11-10-2026| watch: 2 video belum completed: kagura-trailer,oshi-first-journey
+[1]Vanida      |08:03:46 | 11-10-2026| watch [1/2] farming kagura-trailer...
+[1]Vanida      |08:03:47 | 11-10-2026| watch kagura-trailer: mulai dari 0 (record 37.0s diabaikan)
+[1]Vanida      |08:03:48 | 11-10-2026| watch kagura-trailer: 78% (36.97/47.00s)
+[1]Vanida      |08:03:56 | 11-10-2026| watch kagura-trailer: 79% (37.38/47.00s)
+[1]Vanida      |08:04:04 | 11-10-2026| watch kagura-trailer: 79% (37.38/47.00s)
+[1]Vanida      |08:04:11 | 11-10-2026| watch kagura-trailer: 79% (37.38/47.00s)
+[1]Vanida      |08:04:17 | 11-10-2026| watch kagura-trailer: 92% (43.44/47.00s)
+[1]Vanida      |08:04:17 | 11-10-2026| watch kagura-trailer: COMPLETED (43.44/47.00s)
+[1]Vanida      |08:04:22 | 11-10-2026| watch [2/2] farming oshi-first-journey...
+[1]Vanida      |08:04:24 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Vanida      |08:04:32 | 11-10-2026| watch oshi-first-journey: 6% (5.48/87.00s)
+[1]Vanida      |08:04:39 | 11-10-2026| watch oshi-first-journey: 13% (11.74/87.00s)
+[1]Vanida      |08:04:46 | 11-10-2026| watch oshi-first-journey: 21% (18.28/87.00s)
+[1]Vanida      |08:04:53 | 11-10-2026| watch oshi-first-journey: 28% (24.68/87.00s)
+[1]Vanida      |08:05:00 | 11-10-2026| watch oshi-first-journey: 35% (30.64/87.00s)
+[1]Vanida      |08:05:07 | 11-10-2026| watch oshi-first-journey: 42% (37.20/87.00s)
+[1]Vanida      |08:05:13 | 11-10-2026| watch oshi-first-journey: 49% (43.43/87.00s)
+[1]Vanida      |08:05:20 | 11-10-2026| watch oshi-first-journey: 56% (49.18/87.00s)
+[1]Vanida      |08:05:28 | 11-10-2026| watch oshi-first-journey: 63% (55.10/87.00s)
+[1]Vanida      |08:05:36 | 11-10-2026| watch oshi-first-journey: 72% (62.70/87.00s)
+[1]Vanida      |08:05:47 | 11-10-2026| watch oshi-first-journey: 79% (69.37/87.00s)
+[1]Vanida      |08:05:54 | 11-10-2026| watch oshi-first-journey: 88% (77.04/87.00s)
+[1]Vanida      |08:06:02 | 11-10-2026| watch oshi-first-journey: 96% (83.91/87.00s)
+[1]Vanida      |08:06:02 | 11-10-2026| watch oshi-first-journey: COMPLETED (83.91/87.00s)
+--> [1]Vanida menjalankan: Read Article
+[1]Vanida      |08:06:07 | 11-10-2026| news: 1/24 artikel selesai dibaca
+[1]Vanida      |08:06:09 | 11-10-2026| mint eligibility: {"userId":"1780783484325502976","youtube":{"url":"https://www.youtube.com/@wvanidaa","status":"submitted","revision":"98117cd1-90a3-4df7-98f8-83c67bdec823","submittedAt":1791677968,"reviewedAt":179168
+[1]Vanida      |08:06:26 | 11-10-2026| news [1/23] whitepaper-v2-2: OK completed=2
+[1]Vanida      |08:06:36 | 11-10-2026| news [2/23] smart-pocket-referral-rewards: OK completed=3
+[1]Vanida      |08:06:48 | 11-10-2026| news [3/23] spaceship-and-studio-friends: OK completed=4
+[1]Vanida      |08:06:57 | 11-10-2026| news [4/23] swap-arena-stars-guide: OK completed=5
+[1]Vanida      |08:07:06 | 11-10-2026| news [5/23] kagura-airdrop-guide: OK completed=6
+[1]Vanida      |08:07:15 | 11-10-2026| news [6/23] oshi-clash-complete-guide: OK completed=7
+[1]Vanida      |08:07:26 | 11-10-2026| news [7/23] oshi-clash-launch: OK completed=8
+[1]Vanida      |08:07:37 | 11-10-2026| news [8/23] smart-pocket-monthly-2026-09: OK completed=9
+[1]Vanida      |08:07:47 | 11-10-2026| news [9/23] oshi-labs-monthly-2026-09: OK completed=10
+[1]Vanida      |08:07:57 | 11-10-2026| news [10/23] oshi-news-launch: OK completed=11
+[1]Vanida      |08:08:09 | 11-10-2026| news [11/23] yuki-character-design: OK completed=12
+[1]Vanida      |08:08:20 | 11-10-2026| news [12/23] smart-pocket-mobile-apps: OK completed=13
+[1]Vanida      |08:08:33 | 11-10-2026| news [13/23] smart-pocket-read-a-card: OK completed=14
+[1]Vanida      |08:08:42 | 11-10-2026| news [14/23] start-your-fan-creation: OK completed=15
+[1]Vanida      |08:08:51 | 11-10-2026| news [15/23] complete-your-first-task: OK completed=16
+[1]Vanida      |08:09:12 | 11-10-2026| news [16/23] understand-the-rankings: OK completed=17
+[1]Vanida      |08:09:23 | 11-10-2026| news [17/23] unlock-and-save-icons: OK completed=18
+[1]Vanida      |08:09:32 | 11-10-2026| news [18/23] start-here: OK completed=19
+[1]Vanida      |08:09:40 | 11-10-2026| news [19/23] what-is-free-mint: OK completed=20
+[1]Vanida      |08:09:48 | 11-10-2026| news [20/23] what-is-nft: OK completed=21
+[1]Vanida      |08:09:56 | 11-10-2026| news [21/23] prepare-your-wallet: OK completed=22
+[1]Vanida      |08:10:04 | 11-10-2026| news [22/23] find-your-anime: OK completed=23
+[1]Vanida      |08:10:11 | 11-10-2026| news [23/23] smart-pocket-first-steps: OK completed=24
+--> [1]Vanida menjalankan: Quiz Anime
+[1]Vanida      |08:10:15 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
+[1]Vanida      |08:10:20 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Vanida      |08:10:26 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
+[1]Vanida      |08:10:33 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
+[1]Vanida      |08:10:39 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
+[1]Vanida      |08:10:43 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+--> [1]Vanida menjalankan: Music Missions (realtime, bisa lama!)
+[1]Vanida      |08:10:50 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
+[1]Vanida      |08:11:01 | 11-10-2026| music "この手は覚えてる": 9% (9.0027/94s)
+[1]Vanida      |08:11:13 | 11-10-2026| music "この手は覚えてる": 20% (18.9225/94s)
+[1]Vanida      |08:11:24 | 11-10-2026| music "この手は覚えてる": 31% (29.3652/94s)
+[1]Vanida      |08:11:36 | 11-10-2026| music "この手は覚えてる": 42% (39.6792/94s)
+[1]Vanida      |08:11:47 | 11-10-2026| music "この手は覚えてる": 53% (50.7087/94s)
+[1]Vanida      |08:11:58 | 11-10-2026| music "この手は覚えてる": 64% (60.4701/94s)
+[1]Vanida      |08:12:10 | 11-10-2026| music "この手は覚えてる": 74% (70.2405/94s)
+[1]Vanida      |08:12:21 | 11-10-2026| music "この手は覚えてる": 85% (80.75789999999999/94s)
+[1]Vanida      |08:12:22 | 11-10-2026| music "この手は覚えてる": selesai 80.75789999999999s
+[1]Vanida      |08:12:24 | 11-10-2026| music memutar "キャンバス" (125s)...
+[1]Vanida      |08:12:36 | 11-10-2026| music "キャンバス": 7% (9.0054/125s)
+[1]Vanida      |08:12:46 | 11-10-2026| music "キャンバス": 15% (19.214100000000002/125s)
+[1]Vanida      |08:12:57 | 11-10-2026| music "キャンバス": 23% (28.950300000000002/125s)
+[1]Vanida      |08:13:08 | 11-10-2026| music "キャンバス": 30% (38.705400000000004/125s)
+[1]Vanida      |08:13:19 | 11-10-2026| music "キャンバス": 38% (48.46320000000001/125s)
+[1]Vanida      |08:13:30 | 11-10-2026| music "キャンバス": 46% (58.30830000000001/125s)
+[1]Vanida      |08:13:42 | 11-10-2026| music "キャンバス": 54% (68.23620000000001/125s)
+[1]Vanida      |08:13:53 | 11-10-2026| music "キャンバス": 63% (79.41960000000002/125s)
+[1]Vanida      |08:14:05 | 11-10-2026| music "キャンバス": 71% (89.18010000000001/125s)
+[1]Vanida      |08:14:16 | 11-10-2026| music "キャンバス": 79% (99.48060000000001/125s)
+[1]Vanida      |08:14:27 | 11-10-2026| music "キャンバス": 87% (109.82610000000001/125s)
+[1]Vanida      |08:14:28 | 11-10-2026| music "キャンバス": selesai 109.82610000000001s
+[1]Vanida      |08:14:34 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
+[1]Vanida      |08:14:45 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0054/153s)
+[1]Vanida      |08:14:56 | 11-10-2026| music "ゆっくり帰ろう": 12% (18.8874/153s)
+[1]Vanida      |08:15:07 | 11-10-2026| music "ゆっくり帰ろう": 18% (28.7289/153s)
+[1]Vanida      |08:15:18 | 11-10-2026| music "ゆっくり帰ろう": 25% (38.915099999999995/153s)
+[1]Vanida      |08:15:29 | 11-10-2026| music "ゆっくり帰ろう": 31% (48.69/153s)
+[1]Vanida      |08:15:42 | 11-10-2026| music "ゆっくり帰ろう": 38% (58.6224/153s)
+[1]Vanida      |08:15:54 | 11-10-2026| music "ゆっくり帰ろう": 46% (70.7409/153s)
+[1]Vanida      |08:16:05 | 11-10-2026| music "ゆっくり帰ろう": 53% (81.1602/153s)
+[1]Vanida      |08:16:16 | 11-10-2026| music "ゆっくり帰ろう": 59% (91.39320000000001/153s)
+[1]Vanida      |08:16:29 | 11-10-2026| music "ゆっくり帰ろう": 66% (101.21400000000001/153s)
+[1]Vanida      |08:16:40 | 11-10-2026| music "ゆっくり帰ろう": 73% (112.77810000000001/153s)
+[1]Vanida      |08:16:52 | 11-10-2026| music "ゆっくり帰ろう": 80% (122.83200000000001/153s)
+[1]Vanida      |08:17:03 | 11-10-2026| music "ゆっくり帰ろう": 87% (133.1883/153s)
+[1]Vanida      |08:17:04 | 11-10-2026| music "ゆっくり帰ろう": selesai 133.1883s
+[1]Vanida      |08:17:06 | 11-10-2026| music memutar "うたかた" (185s)...
+[1]Vanida      |08:17:17 | 11-10-2026| music "うたかた": 4% (9.0054/185s)
+[1]Vanida      |08:17:33 | 11-10-2026| music "うたかた": 10% (18.7875/185s)
+[1]Vanida      |08:17:45 | 11-10-2026| music "うたかた": 17% (33.2505/185s)
+[1]Vanida      |08:17:57 | 11-10-2026| music "うたかた": 23% (44.1045/185s)
+[1]Vanida      |08:18:08 | 11-10-2026| music "うたかた": 29% (54.3213/185s)
+[1]Vanida      |08:18:20 | 11-10-2026| music "うたかた": 34% (64.08/185s)
+[1]Vanida      |08:18:31 | 11-10-2026| music "うたかた": 40% (75.08879999999999/185s)
+[1]Vanida      |08:18:43 | 11-10-2026| music "うたかた": 45% (84.8376/185s)
+[1]Vanida      |08:18:54 | 11-10-2026| music "うたかた": 51% (95.8941/185s)
+[1]Vanida      |08:19:07 | 11-10-2026| music "うたかた": 57% (105.9687/185s)
+[1]Vanida      |08:19:20 | 11-10-2026| music "うたかた": 63% (117.47879999999999/185s)
+[1]Vanida      |08:19:32 | 11-10-2026| music "うたかた": 69% (128.9538/185s)
+[1]Vanida      |08:19:43 | 11-10-2026| music "うたかた": 75% (139.7709/185s)
+[1]Vanida      |08:19:54 | 11-10-2026| music "うたかた": 81% (149.97420000000002/185s)
+[1]Vanida      |08:19:55 | 11-10-2026| music "うたかた": selesai 149.97420000000002s
+[1]Vanida      |08:19:57 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Vanida      |08:20:09 | 11-10-2026| music "ぬくもり": 4% (9.0054/188s)
+[1]Vanida      |08:20:20 | 11-10-2026| music "ぬくもり": 10% (19.0863/188s)
+[1]Vanida      |08:20:32 | 11-10-2026| music "ぬくもり": 15% (29.482200000000002/188s)
+[1]Vanida      |08:20:44 | 11-10-2026| music "ぬくもり": 21% (39.970800000000004/188s)
+[1]Vanida      |08:20:57 | 11-10-2026| music "ぬくもり": 27% (50.9778/188s)
+[1]Vanida      |08:21:08 | 11-10-2026| music "ぬくもり": 33% (62.6976/188s)
+[1]Vanida      |08:21:19 | 11-10-2026| music "ぬくもり": 38% (72.5958/188s)
+[1]Vanida      |08:21:30 | 11-10-2026| music "ぬくもり": 43% (82.3284/188s)
+[1]Vanida      |08:21:41 | 11-10-2026| music "ぬくもり": 49% (92.16720000000001/188s)
+[1]Vanida      |08:21:51 | 11-10-2026| music "ぬくもり": 54% (101.8953/188s)
+[1]Vanida      |08:22:02 | 11-10-2026| music "ぬくもり": 59% (111.6243/188s)
+[1]Vanida      |08:22:13 | 11-10-2026| music "ぬくもり": 64% (121.3956/188s)
+[1]Vanida      |08:22:24 | 11-10-2026| music "ぬくもり": 69% (131.193/188s)
+[1]Vanida      |08:22:35 | 11-10-2026| music "ぬくもり": 75% (141.21450000000002/188s)
+[1]Vanida      |08:22:46 | 11-10-2026| music "ぬくもり": 80% (151.23510000000002/188s)
+[1]Vanida      |08:22:47 | 11-10-2026| music "ぬくもり": selesai 151.23510000000002s
+[1]Vanida      |08:22:49 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Vanida      |08:23:00 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
+[1]Vanida      |08:23:11 | 11-10-2026| music "桃色の頃": 8% (18.748800000000003/213s)
+[1]Vanida      |08:23:22 | 11-10-2026| music "桃色の頃": 13% (28.552500000000002/213s)
+[1]Vanida      |08:23:34 | 11-10-2026| music "桃色の頃": 18% (38.4345/213s)
+[1]Vanida      |08:23:45 | 11-10-2026| music "桃色の頃": 23% (49.356899999999996/213s)
+[1]Vanida      |08:24:01 | 11-10-2026| music "桃色の頃": 27% (59.5836/213s)
+[1]Vanida      |08:24:12 | 11-10-2026| music "桃色の頃": 34% (73.25999999999999/213s)
+[1]Vanida      |08:24:23 | 11-10-2026| music "桃色の頃": 39% (83.25269999999999/213s)
+[1]Vanida      |08:24:36 | 11-10-2026| music "桃色の頃": 43% (93.68639999999999/213s)
+[1]Vanida      |08:24:47 | 11-10-2026| music "桃色の頃": 49% (105.25049999999999/213s)
+[1]Vanida      |08:25:00 | 11-10-2026| music "桃色の頃": 53% (114.96239999999999/213s)
+[1]Vanida      |08:25:11 | 11-10-2026| music "桃色の頃": 59% (126.57869999999998/213s)
+[1]Vanida      |08:25:22 | 11-10-2026| music "桃色の頃": 63% (136.28429999999997/213s)
+[1]Vanida      |08:25:33 | 11-10-2026| music "桃色の頃": 68% (146.42189999999997/213s)
+[1]Vanida      |08:25:45 | 11-10-2026| music "桃色の頃": 73% (156.12209999999996/213s)
+[1]Vanida      |08:25:56 | 11-10-2026| music "桃色の頃": 78% (167.00759999999997/213s)
+[1]Vanida      |08:26:07 | 11-10-2026| music "桃色の頃": 83% (177.56099999999998/213s)
+[1]Vanida      |08:26:08 | 11-10-2026| music "桃色の頃": selesai 177.56099999999998s
+[1]Vanida      |08:26:11 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Vanida      |08:26:23 | 11-10-2026| music "記憶の名前": 4% (9.0054/224s)
+[1]Vanida      |08:26:34 | 11-10-2026| music "記憶の名前": 8% (19.9152/224s)
+[1]Vanida      |08:26:45 | 11-10-2026| music "記憶の名前": 13% (29.808/224s)
+[1]Vanida      |08:26:56 | 11-10-2026| music "記憶の名前": 17% (39.658500000000004/224s)
+[1]Vanida      |08:27:07 | 11-10-2026| music "記憶の名前": 22% (49.365/224s)
+[1]Vanida      |08:27:18 | 11-10-2026| music "記憶の名前": 26% (59.3082/224s)
+[1]Vanida      |08:27:29 | 11-10-2026| music "記憶の名前": 30% (69.0255/224s)
+[1]Vanida      |08:27:42 | 11-10-2026| music "記憶の名前": 35% (79.2297/224s)
+[1]Vanida      |08:27:53 | 11-10-2026| music "記憶の名前": 40% (90.6471/224s)
+[1]Vanida      |08:28:05 | 11-10-2026| music "記憶の名前": 45% (101.1168/224s)
+[1]Vanida      |08:28:16 | 11-10-2026| music "記憶の名前": 49% (111.2742/224s)
+[1]Vanida      |08:28:27 | 11-10-2026| music "記憶の名前": 54% (121.50089999999999/224s)
+[1]Vanida      |08:28:38 | 11-10-2026| music "記憶の名前": 58% (131.3199/224s)
+[1]Vanida      |08:28:51 | 11-10-2026| music "記憶の名前": 63% (141.3765/224s)
+[1]Vanida      |08:29:02 | 11-10-2026| music "記憶の名前": 68% (152.6787/224s)
+[1]Vanida      |08:29:15 | 11-10-2026| music "記憶の名前": 72% (163.0026/224s)
+[1]Vanida      |08:29:26 | 11-10-2026| music "記憶の名前": 77% (174.6585/224s)
+[1]Vanida      |08:29:38 | 11-10-2026| music "記憶の名前": 82% (184.43880000000001/224s)
+[1]Vanida      |08:29:38 | 11-10-2026| music "記憶の名前": selesai 184.43880000000001s
+[1]Vanida      |08:29:42 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Vanida      |08:29:57 | 11-10-2026| music "Smart Pocket": 3% (9.0036/232s)
+[1]Vanida      |08:30:09 | 11-10-2026| music "Smart Pocket": 9% (22.9347/232s)
+[1]Vanida      |08:30:20 | 11-10-2026| music "Smart Pocket": 14% (33.4602/232s)
+[1]Vanida      |08:30:31 | 11-10-2026| music "Smart Pocket": 18% (43.2819/232s)
+[1]Vanida      |08:30:43 | 11-10-2026| music "Smart Pocket": 23% (53.554500000000004/232s)
+[1]Vanida      |08:30:55 | 11-10-2026| music "Smart Pocket": 27% (64.5021/232s)
+[1]Vanida      |08:31:07 | 11-10-2026| music "Smart Pocket": 32% (75.1608/232s)
+[1]Vanida      |08:31:18 | 11-10-2026| music "Smart Pocket": 36% (85.7115/232s)
+[1]Vanida      |08:31:31 | 11-10-2026| music "Smart Pocket": 41% (96.2217/232s)
+[1]Vanida      |08:31:44 | 11-10-2026| music "Smart Pocket": 46% (107.6985/232s)
+[1]Vanida      |08:31:55 | 11-10-2026| music "Smart Pocket": 51% (119.06099999999999/232s)
+[1]Vanida      |08:32:06 | 11-10-2026| music "Smart Pocket": 55% (128.9457/232s)
+[1]Vanida      |08:32:17 | 11-10-2026| music "Smart Pocket": 59% (138.67919999999998/232s)
+[1]Vanida      |08:32:28 | 11-10-2026| music "Smart Pocket": 64% (149.0904/232s)
+[1]Vanida      |08:32:39 | 11-10-2026| music "Smart Pocket": 68% (158.85809999999998/232s)
+[1]Vanida      |08:32:50 | 11-10-2026| music "Smart Pocket": 72% (169.09919999999997/232s)
+[1]Vanida      |08:33:02 | 11-10-2026| music "Smart Pocket": 77% (179.00279999999998/232s)
+[1]Vanida      |08:33:13 | 11-10-2026| music "Smart Pocket": 81% (189.38519999999997/232s)
+[1]Vanida      |08:33:14 | 11-10-2026| music "Smart Pocket": selesai 189.38519999999997s
+[1]Vanida      |08:33:17 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Vanida      |08:33:28 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Vanida      |08:33:39 | 11-10-2026| music "神様みたいに": 7% (18.776699999999998/254s)
+[1]Vanida      |08:33:50 | 11-10-2026| music "神様みたいに": 11% (28.9989/254s)
+[1]Vanida      |08:34:02 | 11-10-2026| music "神様みたいに": 15% (39.0375/254s)
+[1]Vanida      |08:34:13 | 11-10-2026| music "神様みたいに": 19% (49.374900000000004/254s)
+[1]Vanida      |08:34:24 | 11-10-2026| music "神様みたいに": 23% (59.2614/254s)
+[1]Vanida      |08:34:36 | 11-10-2026| music "神様みたいに": 27% (69.4872/254s)
+[1]Vanida      |08:34:48 | 11-10-2026| music "神様みたいに": 31% (80.0721/254s)
+[1]Vanida      |08:34:59 | 11-10-2026| music "神様みたいに": 35% (90.55890000000001/254s)
+[1]Vanida      |08:35:12 | 11-10-2026| music "神様みたいに": 39% (100.88640000000001/254s)
+[1]Vanida      |08:35:23 | 11-10-2026| music "神様みたいに": 44% (112.1958/254s)
+[1]Vanida      |08:35:35 | 11-10-2026| music "神様みたいに": 48% (122.51520000000001/254s)
+[1]Vanida      |08:35:46 | 11-10-2026| music "神様みたいに": 52% (133.0857/254s)
+[1]Vanida      |08:35:58 | 11-10-2026| music "神様みたいに": 56% (142.8696/254s)
+[1]Vanida      |08:36:09 | 11-10-2026| music "神様みたいに": 60% (154.0494/254s)
+[1]Vanida      |08:36:20 | 11-10-2026| music "神様みたいに": 64% (163.8099/254s)
+[1]Vanida      |08:36:31 | 11-10-2026| music "神様みたいに": 68% (173.5623/254s)
+[1]Vanida      |08:36:43 | 11-10-2026| music "神様みたいに": 72% (183.3669/254s)
+[1]Vanida      |08:36:55 | 11-10-2026| music "神様みたいに": 76% (194.80319999999998/254s)
+[1]Vanida      |08:37:06 | 11-10-2026| music "神様みたいに": 80% (205.68329999999997/254s)
+[1]Vanida      |08:37:07 | 11-10-2026| music "神様みたいに": selesai 205.68329999999997s
+[1]Vanida      |08:37:10 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Vanida      |08:37:21 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0045/269s)
+[1]Vanida      |08:37:32 | 11-10-2026| music "せーので、飛ぼう！": 6% (18.747/269s)
+[1]Vanida      |08:37:43 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.5867/269s)
+[1]Vanida      |08:37:55 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.1887/269s)
+[1]Vanida      |08:38:06 | 11-10-2026| music "せーので、飛ぼう！": 18% (49.4919/269s)
+[1]Vanida      |08:38:17 | 11-10-2026| music "せーので、飛ぼう！": 22% (59.247/269s)
+[1]Vanida      |08:38:27 | 11-10-2026| music "せーので、飛ぼう！": 25% (69.1254/269s)
+[1]Vanida      |08:38:43 | 11-10-2026| music "せーので、飛ぼう！": 29% (78.8778/269s)
+[1]Vanida      |08:38:53 | 11-10-2026| music "せーので、飛ぼう！": 34% (92.4435/269s)
+[1]Vanida      |08:39:04 | 11-10-2026| music "せーので、飛ぼう！": 38% (102.2445/269s)
+[1]Vanida      |08:39:16 | 11-10-2026| music "せーので、飛ぼう！": 41% (111.9915/269s)
+[1]Vanida      |08:39:27 | 11-10-2026| music "せーので、飛ぼう！": 45% (122.6187/269s)
+[1]Vanida      |08:39:38 | 11-10-2026| music "せーので、飛ぼう！": 49% (132.7032/269s)
+[1]Vanida      |08:39:50 | 11-10-2026| music "せーので、飛ぼう！": 52% (142.4934/269s)
+[1]Vanida      |08:40:02 | 11-10-2026| music "せーので、飛ぼう！": 56% (153.1242/269s)
+[1]Vanida      |08:40:18 | 11-10-2026| music "せーので、飛ぼう！": 60% (163.5534/269s)
+[1]Vanida      |08:40:30 | 11-10-2026| music "せーので、飛ぼう！": 66% (178.5321/269s)
+[1]Vanida      |08:40:43 | 11-10-2026| music "せーので、飛ぼう！": 70% (188.83710000000002/269s)
+[1]Vanida      |08:40:57 | 11-10-2026| music "せーので、飛ぼう！": 74% (201.12030000000001/269s)
+[1]Vanida      |08:41:09 | 11-10-2026| music "せーので、飛ぼう！": 79% (213.3711/269s)
+[1]Vanida      |08:41:20 | 11-10-2026| music "せーので、飛ぼう！": 83% (224.25570000000002/269s)
+[1]Vanida      |08:41:23 | 11-10-2026| music "せーので、飛ぼう！": selesai 224.25570000000002s
+[1]Vanida      |08:41:25 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Vanida      |08:41:39 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Vanida      |08:41:50 | 11-10-2026| music "ON CHAIN NEXUS": 7% (20.998800000000003/276s)
+[1]Vanida      |08:42:02 | 11-10-2026| music "ON CHAIN NEXUS": 11% (31.508100000000002/276s)
+[1]Vanida      |08:42:13 | 11-10-2026| music "ON CHAIN NEXUS": 15% (42.1794/276s)
+[1]Vanida      |08:42:28 | 11-10-2026| music "ON CHAIN NEXUS": 18% (51.9318/276s)
+[1]Vanida      |08:42:39 | 11-10-2026| music "ON CHAIN NEXUS": 23% (65.5596/276s)
+[1]Vanida      |08:42:51 | 11-10-2026| music "ON CHAIN NEXUS": 27% (75.3174/276s)
+[1]Vanida      |08:43:04 | 11-10-2026| music "ON CHAIN NEXUS": 31% (86.33070000000001/276s)
+[1]Vanida      |08:43:15 | 11-10-2026| music "ON CHAIN NEXUS": 35% (97.308/276s)
+[1]Vanida      |08:43:28 | 11-10-2026| music "ON CHAIN NEXUS": 39% (107.8965/276s)
+[1]Vanida      |08:43:39 | 11-10-2026| music "ON CHAIN NEXUS": 43% (119.0574/276s)
+[1]Vanida      |08:43:54 | 11-10-2026| music "ON CHAIN NEXUS": 46% (129.5532/276s)
+[1]Vanida      |08:44:05 | 11-10-2026| music "ON CHAIN NEXUS": 51% (142.3665/276s)
+[1]Vanida      |08:44:18 | 11-10-2026| music "ON CHAIN NEXUS": 55% (152.5059/276s)
+[1]Vanida      |08:44:29 | 11-10-2026| music "ON CHAIN NEXUS": 59% (163.8675/276s)
+[1]Vanida      |08:44:41 | 11-10-2026| music "ON CHAIN NEXUS": 63% (174.6216/276s)
+[1]Vanida      |08:44:52 | 11-10-2026| music "ON CHAIN NEXUS": 66% (184.644/276s)
+[1]Vanida      |08:45:03 | 11-10-2026| music "ON CHAIN NEXUS": 70% (194.6439/276s)
+[1]Vanida      |08:45:14 | 11-10-2026| music "ON CHAIN NEXUS": 74% (204.6654/276s)
+[1]Vanida      |08:45:28 | 11-10-2026| music "ON CHAIN NEXUS": 77% (214.9137/276s)
+[1]Vanida      |08:45:39 | 11-10-2026| music "ON CHAIN NEXUS": 82% (226.9053/276s)
+[1]Vanida      |08:45:41 | 11-10-2026| music "ON CHAIN NEXUS": selesai 226.9053s
+[1]Vanida      |08:45:42 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Vanida      |08:45:45 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Vanida      |08:45:49 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Vanida      |08:45:56 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Vanida menjalankan: Claim Missions
+[1]Vanida      |08:46:00 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Vanida      |08:46:00 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vanida      |08:46:00 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Vanida menjalankan: Check Eligibility
+
+--- eligibility [1]Vanida ---
+  @wvanidaa | score=870 rank=6724
+  tasks    [###################-] 73/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Vanida menjalankan: Read Manga
+[1]Vanida      |08:46:08 | 11-10-2026| manga: 2/13 chapter belum completed
+[1]Vanida      |08:46:08 | 11-10-2026| manga [1/2] membaca ch.2 (18 hal)...
+[1]Vanida      |08:46:13 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 123s
+[1]Vanida      |08:46:18 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 127s
+[1]Vanida      |08:46:24 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 132s
+[1]Vanida      |08:46:28 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 138s
+[1]Vanida      |08:46:33 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 143s
+[1]Vanida      |08:46:40 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 148s
+[1]Vanida      |08:46:44 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 154s
+[1]Vanida      |08:46:50 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 158s
+[1]Vanida      |08:46:54 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 164s
+[1]Vanida      |08:47:00 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 169s
+[1]Vanida      |08:47:06 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 175s
+[1]Vanida      |08:47:12 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 180s
+[1]Vanida      |08:47:17 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 186s
+[1]Vanida      |08:47:21 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 191s
+[1]Vanida      |08:47:26 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 196s
+[1]Vanida      |08:47:35 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 201s
+[1]Vanida      |08:47:41 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 209s
+[1]Vanida      |08:47:45 | 11-10-2026| manga ch2: page 18 GAGAL http=503
+[1]Vanida      |08:47:45 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Vanida      |08:47:48 | 11-10-2026| manga [2/2] membaca ch.2 (11 hal)...
+[1]Vanida      |08:47:48 | 11-10-2026| manga ch2 (2520001): start GAGAL http=503
+--> [1]Vanida menjalankan: Get Gift
+[1]Vanida      |08:47:51 | 11-10-2026| gift: 0/3 belum diterima
+--> [1]Vanida menjalankan: Setup Profile
+[1]Vanida      |08:47:52 | 11-10-2026| profile: bio="https://x.com/wvanidaa" fav=yuki rewardAt=1791689977
+[1]Vanida      |08:47:52 | 11-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Vanida menjalankan: Bind Wallet
+[1]Vanida      |08:47:54 | 11-10-2026| wallet: sudah terikat 7WbA2siqdo... (solana)
+
+== RINGKASAN ==
+- Vanida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 2/2 completed | musik 11 trek ~1833.2109s | artikel 23 dibaca | manga 1/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
