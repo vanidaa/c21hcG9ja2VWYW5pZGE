@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Vanida =====
-[1]Vanida      |08:01:01 | 30-10-2026| login OK @wvanidaa | score=2370 rank=3382
-[1]Vanida      |08:01:01 | 30-10-2026| serverTime=2026-10-30T08:01:01.000Z local=2026-10-30T08:01:01.518Z
+[1]Vanida      |07:58:11 | 31-10-2026| login OK @wvanidaa | score=2450 rank=3280
+[1]Vanida      |07:58:11 | 31-10-2026| serverTime=2026-10-31T07:58:11.000Z local=2026-10-31T07:58:11.866Z
 --> [1]Vanida menjalankan: Claim Daily
-[1]Vanida      |08:01:03 | 30-10-2026| daily: OK +10 poin score=2380
---> [1]Vanida menjalankan: Auto All Tasks (7 pending)
-[1]Vanida      |08:01:05 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077372131970377
-[1]Vanida      |08:01:05 | 30-10-2026| delay 10s...
-[1]Vanida      |08:01:17 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077531166928593
-[1]Vanida      |08:01:17 | 30-10-2026| delay 10s...
-[1]Vanida      |08:01:29 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077740652361855
-[1]Vanida      |08:01:29 | 30-10-2026| delay 10s...
-[1]Vanida      |08:01:41 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077562252425105
-[1]Vanida      |08:01:41 | 30-10-2026| delay 10s...
-[1]Vanida      |08:01:54 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077520414355228
-[1]Vanida      |08:01:54 | 30-10-2026| delay 10s...
-[1]Vanida      |08:02:06 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/wvanidaa/status/2116077592475626434
-[1]Vanida      |08:02:06 | 30-10-2026| delay 10s...
-[1]Vanida      |08:02:18 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Vanida      |08:02:18 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Vanida      |08:02:20 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/wvanidaa/status/2116077693468911721
+[1]Vanida      |07:58:13 | 31-10-2026| daily: OK +10 poin score=2460
+--> [1]Vanida menjalankan: Auto All Tasks (5 pending)
+[1]Vanida      |07:58:14 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/wvanidaa/status/2116439136486750322
+[1]Vanida      |07:58:14 | 31-10-2026| delay 10s...
+[1]Vanida      |07:58:26 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/wvanidaa/status/2116439122939576503
+[1]Vanida      |07:58:26 | 31-10-2026| delay 10s...
+[1]Vanida      |07:58:38 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/wvanidaa/status/2116439084640283282
+[1]Vanida      |07:58:38 | 31-10-2026| delay 10s...
+[1]Vanida      |07:58:50 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/wvanidaa/status/2116439436481933275
+[1]Vanida      |07:58:50 | 31-10-2026| delay 10s...
+[1]Vanida      |07:59:02 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/wvanidaa/status/2116439374181489342
+[1]Vanida      |07:59:02 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Vanida      |07:59:04 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/wvanidaa/status/2116439205551454528
 --> [1]Vanida menjalankan: Watch Anime
-[1]Vanida      |08:02:21 | 30-10-2026| watch: semua video sudah completed
+[1]Vanida      |07:59:05 | 31-10-2026| watch: semua video sudah completed
 --> [1]Vanida menjalankan: Read Article
-[1]Vanida      |08:02:22 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Vanida      |08:02:22 | 30-10-2026| mint eligibility: {"userId":"1780783484325502976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wvanidaa","status":"submitted","revision":"98117cd1-90a3-4df7-98f8-83c67bdec823"
-[1]Vanida      |08:02:22 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Vanida      |07:59:06 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Vanida      |07:59:07 | 31-10-2026| mint eligibility: {"userId":"1780783484325502976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@wvanidaa","status":"submitted","revision":"98117cd1-90a3-4df7-98f8-83c67bdec823"
+[1]Vanida      |07:59:13 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Vanida      |07:59:21 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Vanida menjalankan: Quiz Anime
 --> [1]Vanida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Vanida      |08:02:25 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Vanida      |08:02:25 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Vanida      |08:02:25 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vanida      |08:02:25 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vanida      |07:59:26 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Vanida      |07:59:26 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Vanida      |07:59:26 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vanida      |07:59:26 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanida menjalankan: Claim Missions
-[1]Vanida      |08:02:26 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Vanida      |08:02:26 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Vanida      |08:02:26 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Vanida      |07:59:27 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Vanida      |07:59:27 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Vanida      |07:59:27 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Vanida menjalankan: Check Eligibility
 
 --- eligibility [1]Vanida ---
-  @wvanidaa | score=2370 rank=3382
-  tasks    [#######-------------] 4/11
+  @wvanidaa | score=2450 rank=3280
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Vanida menjalankan: Read Manga
-[1]Vanida      |08:02:30 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Vanida      |07:59:31 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Vanida menjalankan: Get Gift
-[1]Vanida      |08:02:30 | 30-10-2026| gift: 1/6 belum diterima
-[1]Vanida      |08:02:31 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Vanida      |07:59:31 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Vanida menjalankan: Setup Profile
-[1]Vanida      |08:02:34 | 30-10-2026| profile: bio="https://x.com/wvanidaa" fav=yuki rewardAt=1791689977
-[1]Vanida      |08:02:34 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Vanida      |07:59:32 | 31-10-2026| profile: bio="https://x.com/wvanidaa" fav=yuki rewardAt=1791689977
+[1]Vanida      |07:59:32 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Vanida menjalankan: Bind Wallet
-[1]Vanida      |08:02:34 | 30-10-2026| wallet: sudah terikat 7WbA2siqdo... (solana)
+[1]Vanida      |07:59:32 | 31-10-2026| wallet: sudah terikat 7WbA2siqdo... (solana)
 
 == RINGKASAN ==
-- Vanida: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Vanida: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
